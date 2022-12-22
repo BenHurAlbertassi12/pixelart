@@ -1,0 +1,70 @@
+img{
+    width: 50px;
+    position: static;
+    border: 1px;
+}
+
+#ff0080 {
+background-color: #ff0080;
+    opacity: 0.5"
+}
+#ff8040{
+background-color: #ff8040;
+    opacity: 0.5"
+}
+#c804000{
+background-color: #804000;
+    opacity: 0.5"
+}
+#c008080{
+background-color: #008080;
+    opacity: 0.5"
+}
+#c800000{
+background-color: #800000;
+    opacity: 0.5"
+}
+#c800080{
+background-color: #800080;
+    opacity: 0.5"
+}
+#c8080ff{
+background-color: #8080ff;
+    opacity: 0.5"
+}
+#darkgrey{
+    background-color: darkgrey;
+        opacity: 0.5"
+}
+#c00ffff{
+        background-color: #00ffff;
+            opacity: 0.5"
+}
+#cff00ff{
+    background-color: #ff00ff;
+        opacity: 0.5"
+}
+#yellow{
+    background-color: yellow;
+        opacity: 0.5"
+}
+#aliceblue{
+    background-color: aliceblue;
+        opacity: 0.5"
+}
+#blue{
+    background-color: blue;
+        opacity: 0.5"
+}
+#green{
+    background-color: green;
+        opacity: 0.5"
+}
+#red{
+    background-color: red;
+        opacity: 0.5"
+}
+#black{
+    background-color: black;
+        opacity: 0.5"
+}
